@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "anime", 
   version: "1.0.0", 
-  permission: 0,
+  permission: 2,
   credits: "Nayan",
   description: "Random anime video",
   prefix: true,
