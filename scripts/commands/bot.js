@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "77",
   version: "0.0.2",
-  permission: 0,
+  permission: 2,
   prefix: false,
   credits: "Nayan",
   description: "sad video",
